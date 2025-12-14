@@ -1,4 +1,4 @@
-package main.java.example.serverProvisioning;
+package example.serverProvisioning;
 
 public class WebServerApp implements Application{
     @Override public void install() {

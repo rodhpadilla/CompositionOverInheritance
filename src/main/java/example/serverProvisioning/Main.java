@@ -1,4 +1,4 @@
-package main.java.example.serverProvisioning;
+package example.serverProvisioning;
 
 public class Main {
     public static void main(String[] args) {

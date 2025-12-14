@@ -1,4 +1,4 @@
-package main.java.example.serverProvisioning;
+package example.serverProvisioning;
 
 public class WindowsOS implements OperatingSystem{
     @Override public void boot() {
