@@ -1,9 +1,9 @@
-package main.java.example.securityScanner.factory;
+package example.securityScanner.factory;
 
-import main.java.example.securityScanner.contract.ScanEngine;
-import main.java.example.securityScanner.impl.MalwareScanEngine;
-import main.java.example.securityScanner.impl.PortScanEngine;
-import main.java.example.securityScanner.model.Type;
+import example.securityScanner.contract.ScanEngine;
+import example.securityScanner.impl.MalwareScanEngine;
+import example.securityScanner.impl.PortScanEngine;
+import example.securityScanner.model.Type;
 
 public class EngineFactory {
     public static ScanEngine getEngine(Type type) {

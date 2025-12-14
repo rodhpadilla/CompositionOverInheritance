@@ -1,10 +1,10 @@
-package main.java.example.securityScanner;
+package example.securityScanner;
 
-import main.java.example.securityScanner.contract.ScanEngine;
-import main.java.example.securityScanner.factory.EngineFactory;
-import main.java.example.securityScanner.model.Target;
-import main.java.example.securityScanner.model.Type;
-import main.java.example.securityScanner.service.SecurityService;
+import example.securityScanner.contract.ScanEngine;
+import example.securityScanner.factory.EngineFactory;
+import example.securityScanner.model.Target;
+import example.securityScanner.model.Type;
+import example.securityScanner.service.SecurityService;
 
 public class Main {
     public static void main(String[] args) {

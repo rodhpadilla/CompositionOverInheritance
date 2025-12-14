@@ -1,7 +1,7 @@
-package main.java.example.securityScanner.service;
+package example.securityScanner.service;
 
-import main.java.example.securityScanner.contract.ScanEngine;
-import main.java.example.securityScanner.model.Target;
+import example.securityScanner.contract.ScanEngine;
+import example.securityScanner.model.Target;
 
 public class SecurityService {
     private final ScanEngine engine;

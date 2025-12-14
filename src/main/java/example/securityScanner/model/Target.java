@@ -1,4 +1,4 @@
-package main.java.example.securityScanner.model;
+package example.securityScanner.model;
 
 public class Target {
     public String ip;

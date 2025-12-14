@@ -1,6 +1,6 @@
-package main.java.example.securityScanner.impl;
+package example.securityScanner.impl;
 
-import main.java.example.securityScanner.contract.ScanEngine;
+import example.securityScanner.contract.ScanEngine;
 
 public class PortScanEngine implements ScanEngine {
     @Override public void Scan(final String ip) {
